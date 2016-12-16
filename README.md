@@ -11,8 +11,10 @@ This is the code of a simple API for some CRUD operations realised for a seminar
 #### Currently Implemented
 * CRUD
   * Student
-#### On The Way
+  
+#### To DO
 * Validations of input with: [Spring Data Rest Validators](http://docs.spring.io/spring-data/rest/docs/2.1.0.RELEASE/reference/html/validation-chapter.html)
+
 
 ### Requirements
 
